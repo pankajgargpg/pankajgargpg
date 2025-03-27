@@ -1,4 +1,4 @@
-<img src ="https://i.pinimg.com/736x/75/1b/49/751b494eedb8960206aaa5a5dd053627.jpg">
+<img src ="https://i.pinimg.com/474x/25/dd/1d/25dd1d710c1d4d2c72f274716a6cd815.jpg">
 <h1 align="center">Hi 👋, I'm Pankaj garg</h1>
 <h3 align="center">I Am a first-year student who is passionate about coding</h3>
 
