@@ -1,4 +1,4 @@
-<img src ="![image](https://github.com/user-attachments/assets/ed9346c8-d620-4eee-93d9-1619a1117509)"
+![image](https://github.com/user-attachments/assets/ed9346c8-d620-4eee-93d9-1619a1117509)
 ">
 <h1 align="center">Hi 👋, I'm Pankaj garg</h1>
 <h3 align="center">I Am a first-year student who is passionate about coding</h3>
