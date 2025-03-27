@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Pankaj garg</h1>
 <h3 align="center">I Am a first-year student who is passionate about coding</h3>
 
+<img align="right" alt="coding" width=300 boder-radius=10 src="https://www.google.com/imgres?q=homelander%20meme%20gif&imgurl=https%3A%2F%2Fmedia1.tenor.com%2Fm%2FDtdBEJICFZQAAAAC%2Fhomelander-stare.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fhomelander-stare-gif-26332648&docid=7ay5fW5MGCQjuM&tbnid=fnPo0kDoVpSB3M&vet=12ahUKEwih-ZfXzKmMAxV8afUHHQF5EFwQM3oECGMQAA..i&w=498&h=320&hcb=2&ved=2ahUKEwih-ZfXzKmMAxV8afUHHQF5EFwQM3oECGMQAA">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajgargpg&label=Profile%20views&color=0e75b6&style=flat" alt="pankajgargpg" /> </p>
 
