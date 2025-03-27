@@ -1,4 +1,5 @@
-<img src ="https://i.pinimg.com/736x/b6/29/e0/b629e0c49b0a480354587f98f1c2d098.jpg">
+<img src ="![image](https://github.com/user-attachments/assets/ed9346c8-d620-4eee-93d9-1619a1117509)"
+">
 <h1 align="center">Hi 👋, I'm Pankaj garg</h1>
 <h3 align="center">I Am a first-year student who is passionate about coding</h3>
 
