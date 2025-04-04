@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Pankaj garg</h1>
 <h3 align="center">I Am a first-year student who is passionate about coding</h3>
 
-<img align="right" alt="https://media.tenor.com/fF5T4AZVAlMAAAAM/diddy.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankajgargpg" alt="pankajgargpg" /></a> </p>
 
 - 🔭 I’m currently working on **study app**
