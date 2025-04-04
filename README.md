@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/ed9346c8-d620-4eee-93d9-1619a1117509)
 <h1 align="center">Hi 👋, I'm Pankaj garg</h1>
-<h3 align="center">I Am a first-year student who is passionate about coding</h3>
+<h3 align="center">I Am a BTech CSE Student Eith Ai/Ml. </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankajgargpg" alt="pankajgargpg" /></a> </p>
 
