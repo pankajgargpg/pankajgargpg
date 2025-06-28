@@ -13,6 +13,7 @@
 - 📫 How to reach me **nc4656@gmail.com**
 
 - ⚡ Fun fact **I sleep good.**
+- ⚡ Fun fact **I crave to make myself better**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
